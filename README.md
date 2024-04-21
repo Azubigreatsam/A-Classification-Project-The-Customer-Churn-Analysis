@@ -1,8 +1,8 @@
-The aim of this project is to build machine learning models which will be trained to predict customer churn for a company using the customer churn data
-
 ## Telco Churning Project using Machine Learning
 
-This project will utilize the CRISP-DM framework for its analysis
+# This project will utilize the CRISP-DM framework for its analysis
+
+The aim of this project is to build machine learning models which will be trained to predict customer churn for a company using the customer churn data
 
 ## Business Understanding
 
@@ -10,14 +10,14 @@ Using the provided dataset, a business could gain insights into the factors that
 
 Furthermore, analyzing contract terms (e.g., Contract length, PaperlessBilling) and payment methods could provide insights into the effectiveness of different billing strategies in retaining customers. By identifying these factors and their impact on churn, businesses can develop targeted retention strategies, such as personalized offers, loyalty programs, or improved customer service, to reduce churn and increase customer loyalty.
 
-Null Hypothesis 
+# Null Hypothesis 
 - There is no significant relationship between the contract terms and customer churn.
 
-Alternate Hypothesis
+# Alternate Hypothesis
 - There is a significant relationship between the contract terms and customer churn.
 
-#Analytical Questions
-1. What is the total churn rate
+## Analytical Questions
+1. What is the total churn rate?
 
 2. What is the churn rate by gender?
 
@@ -29,7 +29,7 @@ Alternate Hypothesis
 
 6. What role do payment methods play in customer churn?
 
-#Insights from analytical questions
+## Insights from analytical questions
 1. Customers with more contract terms have lesser churning rate (Probably long term contracts looks appealing as compared to short term)
 2. Churning based on gender is almost the same
 3. Customers having phone services churn more as compared to those who do not have phone services
