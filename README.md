@@ -10,10 +10,10 @@ Using the provided dataset, a business could gain insights into the factors that
 
 Furthermore, analyzing contract terms (e.g., Contract length, PaperlessBilling) and payment methods could provide insights into the effectiveness of different billing strategies in retaining customers. By identifying these factors and their impact on churn, businesses can develop targeted retention strategies, such as personalized offers, loyalty programs, or improved customer service, to reduce churn and increase customer loyalty.
 
-# Null Hypothesis 
+## Null Hypothesis 
 - There is no significant relationship between the contract terms and customer churn.
 
-# Alternate Hypothesis
+## Alternate Hypothesis
 - There is a significant relationship between the contract terms and customer churn.
 
 ## Analytical Questions
